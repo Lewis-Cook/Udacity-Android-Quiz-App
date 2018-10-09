@@ -12,7 +12,7 @@
         tools:context=".MainActivity">
 
         <TextView
-            style="@style/Headers1"
+            style="@style/Headers.Blue"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/Question_1" />
@@ -60,7 +60,7 @@
         </LinearLayout>
 
         <TextView
-            style="@style/Headers2"
+            style="@style/Headers.Orange"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -109,7 +109,7 @@
         </LinearLayout>
 
         <TextView
-            style="@style/Headers1"
+            style="@style/Headers.Blue"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -157,7 +157,7 @@
         </LinearLayout>
 
         <TextView
-            style="@style/Headers2"
+            style="@style/Headers.Orange"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -205,7 +205,7 @@
         </LinearLayout>
 
         <TextView
-            style="@style/Headers1"
+            style="@style/Headers.Blue"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -254,7 +254,7 @@
         </LinearLayout>
 
         <TextView
-            style="@style/Headers2"
+            style="@style/Headers.Orange"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
