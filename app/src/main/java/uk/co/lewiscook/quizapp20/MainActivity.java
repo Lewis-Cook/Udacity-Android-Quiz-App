@@ -1,5 +1,6 @@
 package uk.co.lewiscook.quizapp20;
 
+import android.annotation.SuppressLint;
 import android.graphics.drawable.Drawable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -37,8 +38,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public String answerMessage() {
-        String finalMessage = "You scored: ";
-        return finalMessage;
+        return "You scored: ";
     }
 
     public void questionOne() {
@@ -140,7 +140,6 @@ public class MainActivity extends AppCompatActivity {
     //Removes correct tick if user happens to change answer
     private void setCorrectAnswerVisibility(RadioButton checkBox) {
         checkBox.setCompoundDrawablesWithIntrinsicBounds(null, null, null, null);
-
     }
 
     //Add's correct tick next to answer if correct
@@ -149,6 +148,7 @@ public class MainActivity extends AppCompatActivity {
         checkBox.setCompoundDrawablesWithIntrinsicBounds(null, null, draw, null);
     }
 
+    @SuppressLint("SetTextI18n")
     private void displayAnswers(String finalMessage) {
         TextView answers = findViewById(R.id.results);
         answers.setText(finalMessage + score + "/6");
