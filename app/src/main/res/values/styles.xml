@@ -8,18 +8,18 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <style name="Headers1">
+    <style name="Headers">
         <item name="android:fontFamily">@font/indie_flower</item>
         <item name="android:textSize">22sp</item>
-        <item name="android:textColor">#283593</item>
         <item name="android:layout_marginBottom">6dp</item>
     </style>
 
-    <style name="Headers2">
-        <item name="android:fontFamily">@font/indie_flower</item>
-        <item name="android:textSize">22sp</item>
+    <style name="Headers.Blue">
+        <item name="android:textColor">#283593</item>
+    </style>
+
+    <style name="Headers.Orange">
         <item name="android:textColor">#e64a19</item>
-        <item name="android:layout_marginBottom">6dp</item>
     </style>
 
     <style name="Answers">
