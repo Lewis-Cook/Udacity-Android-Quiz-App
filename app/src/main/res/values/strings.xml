@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Premiership Quiz!</string>
+
+    <string name="Score">You scored: </string>
+
+    <string name="Question_1">How many clubs competed in the Premier League\'s first season, in 1992-93?</string>
+    <string name="Q1Answer_1">18</string>
+    <string name="Q1Answer_2">20</string>
+    <string name="Q1Answer_3">22</string>
+    <string name="Q1Answer_4">24</string>
+
+    <string name="Question_2">Which club has scored the most goals from headers in the Premier League?</string>
+    <string name="Q2Answer_1">Arsenal</string>
+    <string name="Q2Answer_2">Stoke City</string>
+    <string name="Q2Answer_3">Everton</string>
+    <string name="Q2Answer_4">Chelsea</string>
+
+    <string name="Question_3">Nicolas Anelka is one of two players to have represented Liverpool, Chelsea and Arsenal in the Premier League. Who is the other?</string>
+    <string name="Q3Answer_1">Kolo Toure</string>
+    <string name="Q3Answer_2">William Gallas</string>
+    <string name="Q3Answer_3">Yossi Benayoun</string>
+    <string name="Q3Answer_4">Jermain Pennant</string>
+
+    <string name="Question_4">Which team have managed to finish third in the league despite having a negative goal difference (-4)?</string>
+    <string name="Q4Answer_1">Aston Villa</string>
+    <string name="Q4Answer_2">Norwich City</string>
+    <string name="Q4Answer_3">Blackburn Rovers</string>
+    <string name="Q4Answer_4">Arsenal</string>
+
+    <string name="Question_5">Who has scored the most penalties (56) and missed the most penalties (11)?</string>
+    <string name="Q5Answer_1">Matt Le Tissier</string>
+    <string name="Q5Answer_2">Frank Lampard</string>
+    <string name="Q5Answer_3">Alan Shearer</string>
+    <string name="Q5Answer_4">Steven Gerrard</string>
+
+    <string name="Question_6">Who is the only player to have scored goals for seven clubs in the Premier League?</string>
+    <string name="Q6Answer_1">Teddy Sheringham</string>
+    <string name="Q6Answer_2">Nicolas Anelka</string>
+    <string name="Q6Answer_3">Craig Bellamy</string>
+    <string name="Q6Answer_4">Darren Bent</string>
+</resources>
